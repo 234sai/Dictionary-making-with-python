@@ -27,5 +27,5 @@ if(a==question[i]):
 print("\nRight answer! +5 points")
 score+=5
 else:
-print("\nWrong answer!")
+print("\nwrong answer!")
 print("\nTotal Score is :",s)
